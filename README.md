@@ -39,6 +39,7 @@ This Agent-Based Model (ABM) explores the emergence of social hierarchy and elit
 3. **Run:** Press the **Go** button to run the simulation.
 
 ### Visuals
+![NetLogo Simulation View](thumbnail.png)
 * <span style="color:red">**Red Agents:**</span> **Elites** Size scales dynamically with their competition level.
 * **Black Agents:** **Commoners** A static population used for social contrast.
 * <span style="color:brown">**Brown Area:**</span> The boundaries of the semi-mountainous settlement.
