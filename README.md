@@ -9,6 +9,8 @@ This Agent-Based Model (ABM) explores the emergence of social hierarchy and elit
 * **Phenomenon:** Frequent use of obsidian facilitated by long-distance trading relationships (over 700 km) between the Macedonian settlement and the source in Melos.
 * **Mechanism:** The evolution of trading and product exchange allowed prestigious groups within the settlement to compete and establish a hierarchical social structure.
 
+
+![Interface του Μοντέλου](image.png)
 ---
 
 ## Model Dynamics & Elements
