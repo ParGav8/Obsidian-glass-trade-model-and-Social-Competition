@@ -31,6 +31,7 @@ This Agent-Based Model (ABM) explores the emergence of social hierarchy and elit
 ---
 
 ## How to Use
+1. **Open** the NetLogo file you will find in this repository.
 1. **Setup:** Press the **Setup** button to initialize the settlement, terrain, and agents.
 2. **Configure Parameters:**
    * Use the `initial-wealth-slider` to set the starting economic power.
